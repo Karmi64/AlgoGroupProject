@@ -74,3 +74,21 @@ footer {
     bottom: 0;
 }
 
+.container {
+  max-width: 500px;
+  background-color: #ced1e9;
+  border-radius: 10px;
+  padding: 20px;
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.2);
+}
+
+.containers {
+    display: grid;
+    grid-template-columns: repeat(2, 1fr);
+    grid-gap: 20px;
+}
+
+li {
+    font-size: 20px;
+    
+}
