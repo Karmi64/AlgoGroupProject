@@ -10,7 +10,7 @@
 body {
     font-family: Arial, sans-serif;
     line-height: 1.6;
-    background-color: #f4f4f4;
+    background-color: #d8d8d8;
     color: #101010;
     padding: 20px;
 }
@@ -91,4 +91,9 @@ footer {
 li {
     font-size: 20px;
     
+}
+
+img {
+    height: 300px;
+    width: 400px;
 }
