@@ -88,6 +88,22 @@ footer {
     grid-gap: 20px;
 }
 
+.shortcuts {
+  max-width: 300px;
+  max-height: 100px;
+  background-color: #a59f9f;
+  border-radius: 5px;
+  padding: 5px;
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.2);
+}
+
+.short {
+    display: flex;
+    flex-direction: row;
+    grid-gap: 10px;
+    margin-bottom: 10px;
+}
+
 li {
     font-size: 20px;
     
